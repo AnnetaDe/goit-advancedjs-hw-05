@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@web/dev-server": "^0.4.5",
+    "typescript": "^5.4.5"
+  },
+  "name": "2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
